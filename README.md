@@ -1,11 +1,5 @@
 # Deep Neural Network for Breast Cancer Classification
 
-<br>
-
-<img width="1009" height="721" alt="image" src="https://github.com/user-attachments/assets/c5662a44-04f3-4341-baf6-eb186a98f399" />
-
-<br>
-
 ## Project Overview
 
 This project builds and trains a deep neural network to classify whether breast tumors are malignant or benign using the Breast Cancer Wisconsin (Diagnostic) Data Set. The project provides hands-on experience with PyTorch and neural network architectures focused on medical diagnosis classification tasks.
